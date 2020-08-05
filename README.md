@@ -2,7 +2,7 @@
 ## My Sample projects.. 
 
 
- **LocaLite** (Personal project 😊, under development 🚧) — _**iOS** **SDK/** **framework** **/Cocoa-pod** **.**_
+ **LocaLite** (Personal project, under development 🚧) — _**iOS** **framework/Cocoa-pod** **.**_
 
 - A tiny SDK/framework to **automatically** manage localizations and semantic direction (RTL/LTR) of the app without having to restart the app and without the hustle of maintaining dozensof localizations files and doing hundreds of IB outlets.
 - **Coded in Swift** (available on [Github](https://github.com/yoni-g/LocaLite) and [CocoaPods](https://cocoapods.org/pods/LocaLite)).
