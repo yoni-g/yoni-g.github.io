@@ -3,7 +3,7 @@
 
 **InprisWay** — _**Native iOS app** (soon on the App Store)_
 
-- An app for a unique bluetooth [remote control](https://www.inpris.co/) made by Inpris LTD for driving and cycling, doing most of your actions like answering phone calls, reading and replying to messages, navigation and playing music without the need to touch your phone. 
+- An app for a unique bluetooth [remote control](https://www.inpris.co/) made by Inpris LTD for driving and cycling, enabling most of common actions like answering phone calls, reading and replying to messages, navigation and playing music without the need to touch your phone. 
 - **Coded in Swift** , including use of CL, MapKit and GooglePlaces, Combine, BLE, AVFoundation, Speech, GRDB, Lottie and more.
 
 **KidPick** — _**Native iOS app** (soon on the App Store)_
@@ -30,7 +30,7 @@
 **LocaLite** (Personal project, under development 🚧) — _**iOS** **framework/Cocoa-pod** **.**_
 
 - A tiny framework/SDK to **automatically** manage localizations and semantic direction (RTL/LTR) of the app without having to restart the app and without the hustle of maintaining dozensof localizations files and doing hundreds of IB outlets.
-- **Coded in Swift** (available on [Github](https://github.com/yoni-g/LocaLite) and [CocoaPods](https://cocoapods.org/pods/LocaLite)).
+- **Coded in Swift** (soon available on [Github](https://github.com/yoni-g/LocaLite) and [CocoaPods](https://cocoapods.org/pods/LocaLite)).
 
 **KIT** (Chaumet Paris) — _**Native iOS app** &amp; Salesforce._
 
