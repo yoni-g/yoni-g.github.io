@@ -1,7 +1,7 @@
 
 ## My Sample projects.. 
 
-**Inpris** — _**Native iOS app** (soon on the App Store)_
+**InprisWay** — _**Native iOS app** (soon on the App Store)_
 
 - An app for a unique bluetooth [remote control](https://www.inpris.co/) made by Inpris LTD for driving and cycling, doing most of your actions like answering phone calls, reading and replying to messages, navigation and playing music without the need to touch your phone. 
 - **Coded in Swift** , including use of CL, MapKit and GooglePlaces, Combine, BLE, AVFoundation, Speech, GRDB, Lottie and more.
@@ -16,14 +16,14 @@
 
 **MyDiplomat** (Diplomat Distributors LTD) — _**Native iOS app** &amp; Salesforce (on App Store)_
 
-- B2B/ecommerce app for store &amp; restaurant owners and company&#39;s merchandising, enabling users to create orders, return orders or saved/favorite orders quoted directly in SAP with ondemand stock availability in a matter of seconds, view open lines, order history, customized inventory with all featured and recommended SKUs and much more.
+- B2B/e-commerce app for store &amp; restaurant owners and company&#39;s merchandising, enabling users to create orders, return orders or saved/favorite orders quoted directly in SAP with on demand stock availability in a matter of seconds, view open lines, order history, customized inventory with all featured and recommended SKUs and much more.
 - Connected to Salesforce org via custom WS and includes a complex SAP integration processes.
 - **Coded in Swift** and Salesforce as backend.
 
 **Connect Everywhere** (Stanley Security EU) — _**Native iOS app**_ _&amp; Salesforce_.
 
 - Field sales reps app. The app has an inner sketch app to create sketches of customer&#39;s facilities, warehouses and offices, with the ability to map security products inside the client&#39;s facilities etc enabling direct quotes.
-- Custom implantation of localizations (translations) that works on-the-fly without restarting the app, that&#39;s also easy tomaintain (without storyboard localizations files).
+- Custom implantation of localizations (translations) that works on-the-fly without restarting the app, that&#39;s also easy to maintain (without storyboard localizations files).
 - Full offline sync background management.
 - **Coded in Swift** and Salesforce backend integrated.
 
@@ -45,7 +45,7 @@ Integrated with EL-AL&#39;s Salesforce org.
 
 **ScrollingJS** (Personal project, under development 🚧) — _**Vanilla** **JavaScript lib/npm package**_.
 
-- A tiny JS libraryto handle the scrolling of huge quantities of data in JS based web apps.
+- A tiny JS library to handle the scrolling of huge quantities of data in JS based web apps.
 - **Coded in**  **JS** (not published yet…).
 
 **Customer Community** (CheckPoint LTD)— _Lightning comp. web app._
