@@ -1,17 +1,24 @@
 
 ## My Sample projects.. 
 
+**Inpris** — _**Native iOS app** (soon on the App Store)_
 
- **LocaLite** (Personal project, under development 🚧) — _**iOS** **framework/Cocoa-pod** **.**_
+- An app for a unique bluetooth [remote control](https://www.inpris.co/) made by Inpris LTD for driving and cycling, doing most of your actions like answering phone calls, reading and replying to messages, navigation and playing music without the need to touch your phone. 
+- **Coded in Swift** , including use of CL, MapKit and GooglePlaces, Combine, BLE, AVFoundation, Speech, GRDB, Lottie and more.
 
-- A tiny framework/SDK to **automatically** manage localizations and semantic direction (RTL/LTR) of the app without having to restart the app and without the hustle of maintaining dozensof localizations files and doing hundreds of IB outlets.
-- **Coded in Swift** (available on [Github](https://github.com/yoni-g/LocaLite) and [CocoaPods](https://cocoapods.org/pods/LocaLite)).
+**KidPick** — _**Native iOS app** (soon on the App Store)_
+- A Location based app for kids to create reviews for their favorite places and earning coupons with great prizes. 
+- **Coded in Swift**, including use of CoreLocation, MapKit and GooglePlaces and more.
 
-**MyDiplomat** (Diplomat Distributors LTD) — _**Native iOS app** &amp; Salesforce_
+**Yad14** — _**Native iOS app** (on App Store)_
+- Learning app for Maimonides books. 
+- **Coded in Swift**.
+
+**MyDiplomat** (Diplomat Distributors LTD) — _**Native iOS app** &amp; Salesforce (on App Store)_
 
 - B2B/ecommerce app for store &amp; restaurant owners and company&#39;s merchandising, enabling users to create orders, return orders or saved/favorite orders quoted directly in SAP with ondemand stock availability in a matter of seconds, view open lines, order history, customized inventory with all featured and recommended SKUs and much more.
 - Connected to Salesforce org via custom WS and includes a complex SAP integration processes.
- - **Coded in Swift** and Salesforce as backend.
+- **Coded in Swift** and Salesforce as backend.
 
 **Connect Everywhere** (Stanley Security EU) — _**Native iOS app**_ _&amp; Salesforce_.
 
@@ -19,6 +26,11 @@
 - Custom implantation of localizations (translations) that works on-the-fly without restarting the app, that&#39;s also easy tomaintain (without storyboard localizations files).
 - Full offline sync background management.
 - **Coded in Swift** and Salesforce backend integrated.
+
+**LocaLite** (Personal project, under development 🚧) — _**iOS** **framework/Cocoa-pod** **.**_
+
+- A tiny framework/SDK to **automatically** manage localizations and semantic direction (RTL/LTR) of the app without having to restart the app and without the hustle of maintaining dozensof localizations files and doing hundreds of IB outlets.
+- **Coded in Swift** (available on [Github](https://github.com/yoni-g/LocaLite) and [CocoaPods](https://cocoapods.org/pods/LocaLite)).
 
 **KIT** (Chaumet Paris) — _**Native iOS app** &amp; Salesforce._
 
